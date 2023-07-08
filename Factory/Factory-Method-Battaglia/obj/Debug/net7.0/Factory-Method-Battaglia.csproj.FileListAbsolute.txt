@@ -1,0 +1,15 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\bin\Debug\net7.0\Factory-Method-Battaglia.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\bin\Debug\net7.0\Factory-Method-Battaglia.deps.json
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\bin\Debug\net7.0\Factory-Method-Battaglia.runtimeconfig.json
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\bin\Debug\net7.0\Factory-Method-Battaglia.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\bin\Debug\net7.0\Factory-Method-Battaglia.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.AssemblyInfoInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.AssemblyInfo.cs
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\refint\Factory-Method-Battaglia.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\Factory-Method-Battaglia.genruntimeconfig.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Factory\Factory-Method-Battaglia\obj\Debug\net7.0\ref\Factory-Method-Battaglia.dll

@@ -1,0 +1,7 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\DAO\bin\Debug\DAO.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\DAO\bin\Debug\DAO.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\DAO\bin\Debug\DAO.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\DAO\obj\Debug\DAO.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\DAO\obj\Debug\DAO.pdb
