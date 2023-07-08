@@ -1,0 +1,7 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Proxy\bin\Debug\Proxy.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Proxy\obj\Debug\Proxy.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\PrototypeDeep\bin\Debug\PrototypeDeep.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\PrototypeDeep\bin\Debug\PrototypeDeep.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\PrototypeDeep\bin\Debug\PrototypeDeep.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\PrototypeDeep\obj\Debug\PrototypeDeep.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\PrototypeDeep\obj\Debug\PrototypeDeep.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\PrototypeDeep\obj\Debug\PrototypeDeep.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\PrototypeDeep\obj\Debug\PrototypeDeep.csproj.AssemblyReference.cache
