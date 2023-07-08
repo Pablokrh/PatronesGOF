@@ -1,0 +1,11 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\bin\Debug\TemplateWF.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\bin\Debug\TemplateWF.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\bin\Debug\TemplateWF.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.Form1.resources
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.Properties.Resources.resources
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.csproj.GenerateResource.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\TemplateWF\obj\Debug\TemplateWF.csproj.SuggestedBindingRedirects.cache

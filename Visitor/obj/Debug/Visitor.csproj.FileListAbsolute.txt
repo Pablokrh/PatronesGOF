@@ -1,0 +1,6 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Visitor\bin\Debug\Visitor.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Visitor\obj\Debug\Visitor.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Visitor\obj\Debug\Visitor.pdb
