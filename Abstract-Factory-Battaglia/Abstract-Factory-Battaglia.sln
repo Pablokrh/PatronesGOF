@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract-Factory-Battaglia", "Abstract-Factory-Battaglia\Abstract-Factory-Battaglia.csproj", "{AEE1527A-97EA-4F8C-A0A0-24A0719DFD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE1527A-97EA-4F8C-A0A0-24A0719DFD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE1527A-97EA-4F8C-A0A0-24A0719DFD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE1527A-97EA-4F8C-A0A0-24A0719DFD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE1527A-97EA-4F8C-A0A0-24A0719DFD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE5FC79-C3F5-43EB-81E4-30BB9C8E1E11}
+	EndGlobalSection
+EndGlobal

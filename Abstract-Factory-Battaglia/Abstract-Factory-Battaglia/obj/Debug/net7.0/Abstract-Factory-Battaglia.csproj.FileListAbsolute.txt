@@ -1,0 +1,15 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\bin\Debug\net7.0\Abstract-Factory-Battaglia.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\bin\Debug\net7.0\Abstract-Factory-Battaglia.deps.json
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\bin\Debug\net7.0\Abstract-Factory-Battaglia.runtimeconfig.json
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\bin\Debug\net7.0\Abstract-Factory-Battaglia.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\bin\Debug\net7.0\Abstract-Factory-Battaglia.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.AssemblyInfoInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.AssemblyInfo.cs
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\refint\Abstract-Factory-Battaglia.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\Abstract-Factory-Battaglia.genruntimeconfig.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\Abstract-Factory-Battaglia\Abstract-Factory-Battaglia\obj\Debug\net7.0\ref\Abstract-Factory-Battaglia.dll

@@ -1,0 +1,7 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe.config
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\ChainOfResponsability\bin\Debug\ChainOfResponsability.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\ChainOfResponsability\bin\Debug\ChainOfResponsability.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\ChainOfResponsability\obj\Debug\ChainOfResponsability.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\ChainOfResponsability\obj\Debug\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\ChainOfResponsability\obj\Debug\ChainOfResponsability.exe
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Patrones GOF\ChainOfResponsability\obj\Debug\ChainOfResponsability.pdb
